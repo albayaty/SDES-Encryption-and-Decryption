@@ -1,5 +1,5 @@
 /* ==============================================
-*  Copyright ©  2014  Ali M. Al-Bayaty
+*  Copyright Â©  2014  Ali M. Al-Bayaty
 *  
 *  SDES Encryption and Decryption is free software: you can redistribute
 *  it and/or modify it under the terms of the GNU General Public License
@@ -29,7 +29,7 @@
 # ------------------------------------------------------------------
 The main program:
 
-The implementation of this SDES code uses Sage with the reference of "Cryptography and Network Security" (5th Ed), William Stallings.
+The implementation of this SDES code uses Sage (Python) with the reference of "Cryptography and Network Security" (5th Ed), William Stallings.
 
 Date: May 1, 2012
 # ------------------------------------------------------------------
